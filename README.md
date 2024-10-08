@@ -26,7 +26,7 @@ To set up and run the environment for both the API and the React client, follow 
    yarn install
    yarn start
    ```
-4. Client will run on http://localhost:3000/
+4. Client will run on http://localhost:3000/.
 
 #### API
 
