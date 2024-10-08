@@ -78,5 +78,6 @@ To run the Docker container that hosts the API, run the following commands:
 - Refactor `GameRoom.tsx` to split logic into smaller components and remove unnecessary parts.
 - Integrate real currency exchange rate API.
 - Track if users have paid for the meal.
+- Add pylint.
 - Fix issues:
     - If the game starts and a user leaves, leaving only one user, ensure the game finishes correctly.
