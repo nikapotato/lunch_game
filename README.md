@@ -69,8 +69,9 @@ To run the Docker container that hosts the API, run the following commands:
 
 6. **View Game History**: The game history, including the final meal cost, is stored and can be viewed by all players.
 
-### TODO: Improvements
+### TODO: 
 
+#### Improvements
 - Add database migrations.
 - Implement tests.
 - Improve the UI of the Roulette game.
