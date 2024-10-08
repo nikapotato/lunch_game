@@ -4,7 +4,7 @@
 
 - [Yarn](https://yarnpkg.com/) 
 - [Docker](https://www.docker.com/) 
-- [Poetry](https://python-poetry.org/) 
+- Optional: [Poetry](https://python-poetry.org/) 
 
 ## Running the Project
 
@@ -57,7 +57,7 @@ To run the Docker container that hosts the API, run the following commands:
 ## How to Play the Game
 
 1. **List of available rooms**: You can check the list of available rooms on the home page. If they exist, or not occupied.
-    - After gamme ends in the room, room is available for new players again.
+    - After game ends in the room, room is available for new players again.
 
 2. **Create or Join a Room**: You can create a new room or join an existing one. The game can start once more than one player has joined the room. If you are alone, wait for others to join. Once the game starts, no additional players can join.
 
