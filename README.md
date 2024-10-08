@@ -50,7 +50,7 @@ To run the Docker container that hosts the API, run the following commands:
 2. Start the Docker container:
    ```
    docker-compose up
-   ```
+   ```  
 
 3. API will run on http://localhost:8000/ (you will be redirected to the docs).
 
