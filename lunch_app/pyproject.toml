@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "lunch-app"
+version = "0.1.0"
+description = ""
+authors = ["nikapotato <sokol.nikolka@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.0"
+uvicorn = {extras = ["standard"], version = "^0.31.0"}
+asyncio = "^3.4.3"
+mypy = "^1.11.2"
+sqlalchemy = "^2.0.35"
+python-dotenv = "^1.0.1"
+pydantic = "^2.9.2"
+psycopg2-binary = "^2.9.9"
+asyncpg = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
