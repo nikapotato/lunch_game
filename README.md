@@ -56,15 +56,18 @@ To run the Docker container that hosts the API, run the following commands:
 
 ## How to Play the Game
 
-1. **Create or Join a Room**: You can create a new room or join an existing one. The game can start once more than one player has joined the room. If you are alone, wait for others to join. Once the game starts, no additional players can join.
+1. **List of available rooms**: You can check the list of available rooms on the home page. If they exist, or not occupied.
+    - After gamme ends in the room, room is available for new players again.
 
-2. **Enter Room Code**: If you created the room, share the room code with others. They can join by entering this code.
+2. **Create or Join a Room**: You can create a new room or join an existing one. The game can start once more than one player has joined the room. If you are alone, wait for others to join. Once the game starts, no additional players can join.
 
-3. **Play the Game**: Once the game starts, each player clicks on the roulette to receive their score. The player with the lowest score "wins" and pays for the meal.
+3. **Enter Room Code**: If you created the room, share the room code with others. They can join by entering this code.
 
-4. **Add Meal Cost**: After the game, each player can add the meal cost and currency.
+4. **Play the Game**: Once the game starts, each player clicks on the roulette to receive their score. The player with the lowest score "wins" and pays for the meal.
 
-5. **View Game History**: The game history, including the final meal cost, is stored and can be viewed by all players.
+5. **Add Meal Cost**: After the game, each player can add the meal cost and currency.
+
+6. **View Game History**: The game history, including the final meal cost, is stored and can be viewed by all players.
 
 ### TODO: Improvements
 
