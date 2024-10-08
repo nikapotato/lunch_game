@@ -73,7 +73,7 @@ To run the Docker container that hosts the API, run the following commands:
 
 - Add database migrations.
 - Implement tests.
-- Enhance the UI of the Roulette game.
+- Improve the UI of the Roulette game.
 - Refactor `GameRoom.tsx` to split logic into smaller components and remove unnecessary parts.
 - Integrate real currency exchange rate API.
 - Track if users have paid for the meal.
